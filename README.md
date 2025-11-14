@@ -33,6 +33,6 @@
 
 ## Languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zapysolo&layout=compact&theme=tokyonight)
 
 ---
