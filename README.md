@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Nikhil Patil</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Engineer"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
-
 - 👨‍💻 All about me is at [My Website](http://zapy.in.net/)
 
 - 💬 Ask me about ``` var topics = [ "JS", "NextJS", "Express", "AWS", "SQL" ] ```
