@@ -24,6 +24,4 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zapysolo&color=blue)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zapysolo&show_icons=true&theme=tokyonight&rank_icon=github)
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zapysolo&layout=compact&theme=tokyonight)
